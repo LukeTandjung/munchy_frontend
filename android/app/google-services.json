@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497909898779",
+    "project_id": "munchy-fe050",
+    "storage_bucket": "munchy-fe050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497909898779:android:ef4d6f6a66cad6e18822be",
+        "android_client_info": {
+          "package_name": "com.example.munchy_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497909898779-tps7opghc4h9t8td8ff4unuip8o3cgmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeU-zIJ8XBZfMdgVq6D_tdIzrVAXL70vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497909898779-tps7opghc4h9t8td8ff4unuip8o3cgmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
